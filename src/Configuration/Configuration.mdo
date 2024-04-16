@@ -31,5 +31,6 @@
   </languages>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Товары</catalogs>
+  <catalogs>Catalog.aboba</catalogs>
   <documents>Document.УчетПродаж</documents>
 </mdclass:Configuration>

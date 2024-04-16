@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="323442d1-1f69-4429-b301-52eb25f6c7a7">
+  <producedTypes>
+    <objectType typeId="39487034-06ef-4c5f-82a0-e0f24f37ae1d" valueTypeId="7b1c3157-ed0d-4eef-b510-3cb2d8fccced"/>
+    <refType typeId="e7ae5775-f1fe-4267-a4a5-0f4f60508361" valueTypeId="c1248d6d-bc42-41d3-863c-3b555026bc56"/>
+    <selectionType typeId="51b6e02a-d811-4c77-800c-d37b4e5d375e" valueTypeId="ba1ef2fd-cc57-4792-8f94-07b1ed850657"/>
+    <listType typeId="6a29984a-106a-42b4-878d-b648119fc6cf" valueTypeId="12a3fc20-4b26-4689-b8fe-52e9d905abd7"/>
+    <managerType typeId="28b4dec6-bd62-4631-98b3-3d3e89648290" valueTypeId="6550c0f4-c247-4e58-a6e4-e8e90b6d10e1"/>
+  </producedTypes>
+  <name>aboba</name>
+  <synonym>
+    <key>ru</key>
+    <value>Aboba</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.aboba.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.aboba.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
